@@ -1,0 +1,14 @@
+.icon-left {
+  margin-right: 5px;
+}
+
+.icon-right {
+  margin-left: 5px;
+}
+
+.material-icons {
+  font-size: 14px !important;
+}
+.MuiIcon-root {
+  font-size: inherit;
+}
